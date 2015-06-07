@@ -79,3 +79,57 @@ while to load.**
 <img style="max-width:100%" src="photos/eric/IMG_4315.JPG">
 
 <img style="max-width:100%" src="photos/eric/IMG_4320.JPG">
+
+## Photos took by Renato Santos
+
+<img style="max-width:100%" src="photos/renato/IMG_2252.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2302.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2257.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2272.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2268.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2301.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2267.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2254.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2258.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2304.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2259.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2256.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2270.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2260.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2263.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2305.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2269.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2271.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2265.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2274.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2262.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2255.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2261.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2264.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2303.JPG">
+
+<img style="max-width:100%" src="photos/renato/IMG_2253.JPG">
